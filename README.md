@@ -7,3 +7,8 @@
 
 - 📫 How to reach me **enzo.garofalo07@gmail.com**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,flask,django,java" />
+  </a>
+</p>
