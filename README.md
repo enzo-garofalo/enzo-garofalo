@@ -27,11 +27,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📝 I regularly write about my studies on Wiki Engineering<br>📚 I'm currently learning Django and JavaScript <br>🎯My biggest goal is to become a full-stack software engineer<br>🎲 Fun fact: I'm the best ice cream man from Hortolândia-SP</p>
+<p align="left">✨ Creating bugs since 2018<br>📝 I regularly write about my studies on <a href="https://ripe-moat-f8e.notion.site/7aefb89b3c174143a877e3fce49b2ea1?v=12ded290839943ef96d22435066ab9d1&pvs=4">Engineering Wiki</a><br>📚 I'm currently learning Django and JavaScript <br>🎯My biggest goal is to become a full-stack software engineer<br>🎲 Fun fact: I'm the best ice cream man from Hortolândia-SP</p>
 
 ###
 
-<h3 align="left">I code with:</h3>
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -53,3 +53,11 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzo-garofalo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzo-garofalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
