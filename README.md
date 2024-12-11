@@ -59,4 +59,6 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="ts logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
 </div>
