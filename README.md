@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Enzo Garofalo and I'm a Student from Brazil!</h3>
+<h3 align="center">My name is Enzo Garofalo and I'm a FullStack Devloper from Brazil!</h3>
 
 ###
 
