@@ -62,6 +62,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
   <img width="12" />
 </div>
